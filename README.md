@@ -1,1 +1,1 @@
-# Handwriiten_Digital_Recoginition
+# Handwritten_Digital_Recognition
